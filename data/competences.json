@@ -1,0 +1,17 @@
+[
+    {
+        "icon" : "../image/icons/Icon.svg",
+        "title" : "UX/UX Design",
+        "desc" : "j'utilise figma pour creer des marques"
+    },
+    {
+        "icon" : "../image/icons/Icon-1.svg",
+        "title" : "Integration UI",
+        "desc" : "J'utilise html css pour integrer les maquettes des sites web"
+    },
+    {
+        "icon" : "../image/icons/Icon-2.svg",
+        "title" : "FrontEnd",
+        "desc" : "J'utilise le Javascript pour creer des pages interactives"
+    }
+]
