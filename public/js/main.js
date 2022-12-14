@@ -6,7 +6,7 @@ console.log(competences);
 const competencesDiv=document.querySelector(".data-competence");
 
 for(let i=0;i<competences.length; i++){
-    // console.log(competences[i].title);
+    console.log(competences[i].title);
     const div=document.createElement("div");
     div.classList.add("box")
     div.innerHTML=`<div><img src="${competences[i].icon}"></div>"
